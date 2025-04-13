@@ -14,7 +14,7 @@
  
 <br>
  
-### Logo logo, muitos códigos por aqui!!!
+### Logo logo, muitos projetinhos por aqui.
  
 <div> 
   <a href = "mailto:contatodev.laio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
