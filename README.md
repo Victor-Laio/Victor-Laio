@@ -22,3 +22,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="www.linkedin.com/in/victor-laiosc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Victor!;Seja+bem-vindo+ao+meu+perfil+🚀" />
+</p>
